@@ -1,0 +1,11 @@
+2
+
+1 20 elefante
+
+1 6 seis
+
+1 1 uno
+
+1 17 ballena
+
+0
